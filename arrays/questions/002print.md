@@ -1,0 +1,1 @@
+Given an array pf elements print all the contents of the array.
