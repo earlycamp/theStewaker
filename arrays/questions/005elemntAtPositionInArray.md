@@ -1,0 +1,1 @@
+Given an array of any size, find the first element in the array.
