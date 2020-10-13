@@ -3,14 +3,12 @@ Example:
 
 if arrayOne = array('hugo', [10,20,30,40,50])
 
-Your program should print:
+Your program should print the following when run:
 
-`10
+10
 
 20
 
 30
 
-40`
-
-When it is run.
+40
