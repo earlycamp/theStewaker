@@ -1,8 +1,8 @@
-input1 = input("Enter one element:  ")
-input2 = input("Enter one element:  ")
-input3 = input("Enter one element:  ")
-input4 = input("Enter one element:  ")
-input5 = input("Enter one element:  ")
+input1 = input("Enter the elements you want:  ")
+input2 = input("Enter the elements you want:  ")
+input3 = input("Enter the elements you want:  ")
+input4 = input("Enter the elements you want:  ")
+input5 = input("Enter the elements you want:  ")
 
 
 array1 = []
@@ -12,5 +12,5 @@ array1.append(input2)
 array1.append(input3)
 array1.append(input4)
 array1.append(input5)
-
+ 
 print(array1[0])
