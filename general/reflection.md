@@ -4,10 +4,14 @@ For example, `“radar”` is reflected becasuse it can be read in reverse and w
 
 Examples: 
  
+* example 1
+    Input : `radar`
 
-Input : `radar`
-Output : `Yes`
+    Output : `Yes`
 
-Input : `frank`
-Output : `No`
+* example 2
+
+    Input : `frank`
+
+    Output : `No`
 
