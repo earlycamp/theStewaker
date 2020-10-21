@@ -1,2 +1,3 @@
-dubala = ["Nesh",11,"Malli",9]
-print(len(dubala))
+import array as arr
+a = arr.array('b',[1,2,3,4,5,6,7,8,10])
+print(len(a))

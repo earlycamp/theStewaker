@@ -1,9 +1,11 @@
-dubala = ["Nesh",11,"Malli",9]
+import array as arr
+a = arr.array('b',[1,2,3,4,5,6,7,8,10])
+
 
 def add_items():
-    adding = 5
-    dubala.append(adding)
-
+    adding = 21
+    a.append(adding)
 add_items()
 
-print(dubala)
+
+print(a)
