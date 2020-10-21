@@ -5,9 +5,9 @@ For example, `“radar”` is reflected becasuse it can be read in reverse and w
 Examples: 
  
 
-`Input : radar
-Output : Yes
+Input : `radar`
+Output : `Yes`
 
-Input : frank
-Output : No`
+Input : `frank`
+Output : `No`
 
