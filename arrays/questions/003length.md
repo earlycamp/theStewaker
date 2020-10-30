@@ -1,0 +1,1 @@
+Given an array of elements, find the length of the array.
