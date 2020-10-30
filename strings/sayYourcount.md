@@ -22,7 +22,7 @@ An Explanation of the Say and Count game,
 * `21` is read off as `"one 2,"` then `one 1"` or `1211.`
 
 
-Use cases:
+Use casese:
 
 Given an `integer n`, generate the `nth term` of the count-and-say sequence. You can from the previous member read off the digits, counting the number of digits in groups of the same digit.
 
